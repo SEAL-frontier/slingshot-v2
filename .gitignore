@@ -1,0 +1,14 @@
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv
+.env*
+uv.lock
+config.json
+system_prompt*
+stuffs/
+games.json
+bot.py

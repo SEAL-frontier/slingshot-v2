@@ -1,0 +1,11 @@
+{
+    "botToken": "discord bot token",
+    "triggerWords": ["trigger me", "trigger me"],
+    "adminIds": [1234567891011121314],
+    "modelName": "gemini-3.6-flash",
+    "apiEndpoint": "api.openai.com",
+    "apiKey": "hello?",
+    "maxHistory": 64,
+    "maxImageCache": 64,
+    "maxImageSizeByte": 5242880
+}
